@@ -54,22 +54,22 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
+namaig = 'Gda'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'King Of Bear'
-namakontak2 = 'King Of Bear'
+namakontak1 = 'Indra'
+namakontak2 = 'Indra'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By King Of Indra' // ganti aja
+global.packname = 'Indra' // ganti aja
 global.author = 'Indra' // ganti aja
 
 //yyy
 bc = 'Indra' // Indra Broadcast
 footer = '\n©Indra'
-namabot = 'PTRYX BOT'
+namabot = 'INDRA BOT'
 namalu = 'Indra'
 
 
